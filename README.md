@@ -1,4 +1,3 @@
 # URL Shortening Service
 
-> [!WARNING]
-> This repository will be updated.
+https://roadmap.sh/projects/url-shortening-service
